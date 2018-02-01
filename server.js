@@ -30,6 +30,19 @@ app.listen(config.port, function(err)
     if(err)
     {
         console.log(err);
+        console.log(err);
+
+        console.log(err);
+
+        console.log(err);
+
+        console.log(err);
+        
+        console.log(err);
+        
+        console.log(err);
+
+        
     }
     else{
         console.log("listening on port 3000");
